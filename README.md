@@ -5,5 +5,5 @@
 - 🌱 I’m currently learning Webpack, React Hooks and GraphQL.
 - 👯 I’m looking to collaborate on anything related to web.
 
-📫 How to reach me: https://www.linkedin.com/in/sachin-lohani-a0255479/. 
+📫 How to reach me: https://www.linkedin.com/in/sachin-lohani-a0255479/.__
 ⚡ Fun fact: I love animals and I have 3 cats. 

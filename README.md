@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 👯 I’m looking to collaborate on anything related to web.
 
 📫 How to reach me: https://www.linkedin.com/in/sachin-lohani-a0255479/
-⚡ Fun fact: I love animals and I have 3 cats.
+⚡ Fun fact: I love animals and I have 3 cats. 
 -->
